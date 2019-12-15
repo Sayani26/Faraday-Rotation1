@@ -17,11 +17,11 @@ Usage
 
 To access the notebook, clone the repository by typing
 
-git clone https://github.com/Sayani26/Faraday-Rotation.git
+git clone https://github.com/Sayani26/Faraday-Rotation1.git
 
 Then open the notebook. Type,
 
-cd Faraday-Rotation
+cd Faraday-Rotation1
 
 cd FR
 
